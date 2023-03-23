@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.title("Input Text Example")
+    st.title("put your command here")
 
     input_text = st.text_input("Enter your text:")
     if input_text:
